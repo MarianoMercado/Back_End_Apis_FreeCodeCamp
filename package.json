@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
+    "url": "git+https://github.com/MarianoMercado/Back_End_Apis_FreeCodeCamp.git"
   },
   "description": "This is the boilerplate code for the Managing Packages With npm Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/",
   "bugs": {
-    "url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
+    "url": "https://github.com/MarianoMercado/Back_End_Apis_FreeCodeCamp.git/issues"
   },
-  "homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
+  "homepage": "https://github.com/MarianoMercado/Back_End_Apis_FreeCodeCamp.git#readme",
   "version": "1.0.0",
   "keywords": [],
   "license": "ISC"
